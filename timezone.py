@@ -1,6 +1,5 @@
 # ceritanya patokan awal itu timezone london, jem 10:30 Tuesday
 days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
-symbols = ["+", "-"]
 i = 1
 hour_to_minute = 60
 london_hour, london_minute = 10, 30
